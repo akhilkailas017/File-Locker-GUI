@@ -1,4 +1,4 @@
-# File-Lock-GUI-XOR-File-Encryption
+# File-Locker-GUI
 
 
 
